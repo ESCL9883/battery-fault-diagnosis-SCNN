@@ -1,16 +1,22 @@
 # RLS-GASF-SCNN Battery Fault Diagnosis Framework
 
-The code used for RLS parameter estimation, PAA preprocessing, GASF/MTF image encoding, CNN classification, and SCNN training is publicly available at:
+The code used for:
+- RLS parameter estimation
+- PAA preprocessing
+- GASF/MTF image encoding
+- CNN classification
+- Triplet-loss SCNN training
+
+is publicly available at:
 
 https://github.com/ESCL9883/battery-fault-diagnosis-SCNN
 
-Code repository for the paper:
+This repository accompanies the paper:
 
 "Triplet loss Siamese convolutional neural network-based fault diagnosis framework using recursive least square-derived internal parameters two-dimensional representation in lithium-ion batteries"
 
 Submitted to *Energy*.
 
----
 
 ## Included components
 
@@ -22,13 +28,11 @@ Submitted to *Energy*.
 - SCNN training framework
 - Triplet-loss implementation
 
----
 
 ## Dataset availability
 
 The experimental dataset is currently undergoing institutional review associated with the NRF/KETEP-funded project and will be publicly released upon approval.
 
----
 
 ## Contact
 
